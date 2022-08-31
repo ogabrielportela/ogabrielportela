@@ -7,7 +7,7 @@ Me chamo Gabriel Portela, tenho 20 anos, sou formado em Análise e Desenvolvimen
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<code display ='flex'>
+<code display ='flex' background-color='#fff'>
 <img width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img width = '40px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
